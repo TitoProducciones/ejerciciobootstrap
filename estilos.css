@@ -1,0 +1,40 @@
+.bg-jumbotron{
+    background-image: url(tecla05.jpg);
+    background-size: auto;
+    background-position: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 241, 63);
+    text-align: center;
+    overflow: hidden;
+}
+h1{    
+    text-shadow: 7px 5px 10px rgb(243, 163, 131);
+}
+h2{
+    color: rgb(240, 56, 10);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-shadow: 7px 5px 10px rgb(75, 229, 240);
+}
+
+h3{
+    color: rgb(206, 245, 68);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    text-shadow: 7px 5px 10px rgb(250, 7, 28);
+    
+}
+
+
+body{
+    background-color: aquamarine;
+}
+
+.card-title{
+    font-weight: 800;
+}
+
+a.navar-brand{
+    color:rgb(206, 245, 68);
+}
